@@ -17,8 +17,9 @@ Para rodar o projeto localmente, siga os passos abaixo:
   1- Clone o repositório digitando em seu terminal:
     "git clone git@github.com:thalissonsouzas/MySpotify.git"
 
-  2- Entre no repositório e instale as dependências:
+  2- Entre no diretório e instale as dependências:
     "cd MySpotify
+    cd App
     npm install"
 
   3- Inicie o aplicativo:
