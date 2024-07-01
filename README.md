@@ -1,49 +1,91 @@
 # MySpotify 🎵
-Spotify remake consuming API for search.
+## Spotify remake consuming API for search.
 
 
 ENGLISH DESCRIPTION: This project is a remake of Spotify developed in React, which allows searching for albums by artists using an API.
 
-USED TECHNOLOGIES: - React - JavaScript - Tailwind CSS - Lucide React (for icons) - API
+## USED TECHNOLOGIES: 
 
-INSTALLATION AND USAGE: To run the project locally, follow the steps below:
+- React
+- JavaScript
+- Tailwind CSS
+- Lucide React (icons)
+- API
 
-1- Clone the repository by typing in your terminal: "git clone git@github.com
-/MySpotify.git"
+## INSTALLATION AND USAGE: To run the project locally, follow the steps below:
 
-2- Navigate to the directory and install dependencies: "cd MySpotify cd App npm install"
+1- Clone the repository by typing in your terminal: 
+```bash
 
-3- Start the application: "npm start"
 
-4- Access http://localhost:3000 in your browser
+git clone git@github.com:thalissonsouzas/MySpotify.git
+```
+
+2- Navigate to the directory App and install dependencies:
+
+```bash
+
+
+cd MySpotify 
+cd App
+npm install
+```
+
+
+3- Start the application:
+
+```bash
+
+npm start
+```
+
+4- Access http://localhost:3000 in your browser or another port indicated in your terminal
 
 ____________________________________________________________________________________________________________________________
+
+## Remake Spotify utilizando API para busca
 
 DESCRIÇÃO PT:
 Este projeto é uma releitura do Spotify desenvolvido em React, que permite buscar álbuns de artistas utilizando uma API.
 
-TECNOLOGIAS UTILIZADAS:
+## TECNOLOGIAS UTILIZADAS:
   -React
   -JavaScript
   -Tailwind CSS
   -Lucide React (para ícones)
   -API 
 
-INSTALAÇÃO E USO:
+## INSTALAÇÃO E USO:
 Para rodar o projeto localmente, siga os passos abaixo:
 
   1- Clone o repositório digitando em seu terminal:
-    "git clone git@github.com:thalissonsouzas/MySpotify.git"
 
-  2- Entre no diretório e instale as dependências:
-    "cd MySpotify
-    cd App
-    npm install"
+  ```bash
+
+
+git clone git@github.com:thalissonsouzas/MySpotify.git
+```
+
+  2- Entre no diretório App e instale as dependências:
+
+```bash
+
+
+cd MySpotify 
+cd App
+npm install
+```
 
   3- Inicie o aplicativo:
-    "npm start"
 
-  4- Acesse http://localhost:3000 no seu navegador
+```bash
+
+npm start
+```
+
+  4- Acesse http://localhost:3000 no seu navegador ou outra porta indicada em seu terminal
 
 
+
+![image](https://github.com/thalissonsouzas/MySpotify/assets/122633459/0a971e5c-ecbe-4f21-a81f-ceb3d7b63e4c)
 
