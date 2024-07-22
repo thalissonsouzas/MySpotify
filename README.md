@@ -93,4 +93,6 @@ npm start
 
 
 ![image](https://github.com/thalissonsouzas/MySpotify/assets/122633459/0a971e5c-ecbe-4f21-a81f-ceb3d7b63e4c)
+![image](https://github.com/user-attachments/assets/1b574322-95bd-44da-b091-659435409875)
+![image](https://github.com/user-attachments/assets/0ac0cc40-eca7-4ce0-9213-560bba37ddea)
 
