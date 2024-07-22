@@ -4,6 +4,8 @@
 
 ENGLISH DESCRIPTION: This project is a remake of Spotify developed in React, which allows searching for albums by artists using an API.
 
+https://noisy-scene.surge.sh/home
+
 ## USED TECHNOLOGIES: 
 
 - React
@@ -47,6 +49,9 @@ ________________________________________________________________________________
 
 DESCRIÇÃO PT:
 Este projeto é uma releitura do Spotify desenvolvido em React, que permite buscar álbuns de artistas utilizando uma API.
+
+Acesse o projeto pelo link enquanto ainda está disponível no surge:  
+https://noisy-scene.surge.sh/home
 
 ## TECNOLOGIAS UTILIZADAS:
   -React
